@@ -136,8 +136,8 @@ python bottom_park_visuals.py
 
 ## 📞 연락처
 
-velog : sins42k
-email : sins88705@gmail.com
+- velog : sins42k
+- email : sins88705@gmail.com
 
 ---
 
